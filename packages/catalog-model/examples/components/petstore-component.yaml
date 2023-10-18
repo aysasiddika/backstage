@@ -7,6 +7,8 @@ metadata:
     [The Petstore](http://petstore.example.com) is an example API used to show features of the OpenAPI spec.
     - First item
     - Second item
+  annotations:
+    backstage.io/techdocs-ref: value
   links:
     - url: https://github.com/swagger-api/swagger-petstore
       title: GitHub Repo
